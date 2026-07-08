@@ -1,0 +1,19 @@
+{
+  "name": "nevaris-bot",
+  "version": "2.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.5.0",
+    "@discordjs/voice": "^0.17.0",
+    "@distube/ytdl-core": "^4.14.4",
+    "youtube-sr": "^4.3.11",
+    "ffmpeg-static": "^5.2.0",
+    "opusscript": "^0.1.1",
+    "libsodium-wrappers": "^0.7.15"
+  }
+}
