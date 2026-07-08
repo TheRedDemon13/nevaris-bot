@@ -1,17 +1,1 @@
-{
-  "name": "nevaris-bot",
-  "version": "1.0.0",
-  "private": true,
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "discord.js": "^14.18.0",
-    "dotenv": "^16.5.0",
-    "@discordjs/voice": "^0.17.0",
-    "play-dl": "^1.9.7",
-    "opusscript": "^0.1.1",
-    "libsodium-wrappers": "^0.7.15"
-  }
-}
+
